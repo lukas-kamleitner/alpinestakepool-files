@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2022/1",
+    "donations": [
+      {
+        "amount": 42,
+        "organizationName": "Mountain Wilderness Deutschland e. V.",
+        "confirmationUrl": "https://drive.google.com/file/d/1CfWZccGfcHNtWhY9KyYtdnzhDX2r2zed/view?usp=sharing"
+      },
+      {
+        "amount": 42,
+        "organizationName": "Albert Schweitzer Foundation",
+        "confirmationUrl": "https://drive.google.com/file/d/1Ckppm5kY-ywEtvOD-PLNB5t7D1_04Y_5/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2022/2",
+    "donations": [
+      {
+        "amount": 42,
+        "organizationName": "Deutscher Alpenverein",
+        "confirmationUrl": "https://drive.google.com/file/d/1CfOPJD8XWmaq9uRogrEAksvLPZ-D3IGB/view?usp=sharing"
+      },
+      {
+        "amount": 42,
+        "organizationName": "Umweltverband WWF Österreich",
+        "confirmationUrl": "https://drive.google.com/file/d/1CapNepN-_WUPaQLH0-ukKHI-KOq45uti/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2022/3",
+    "donations":[
+      {
+        "amount": 42,
+        "organizationName": "Mountain Wilderness Deutschland e. V.",
+        "confirmationUrl": "https://drive.google.com/file/d/1CZf8bHJ_A2dmenZ7FPtCvDtaeP5n6RI5/view?usp=sharing"
+      },
+      {
+        "amount": 42,
+        "organizationName": "Animal Spirit",
+        "confirmationUrl": "https://drive.google.com/file/d/1C_qfOjrYugb9LgQQ8o5CWSOujrsrWhMm/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2022/4",
+    "donations":[
+      {
+        "amount": 42,
+        "organizationName": "Österreichischer Alpenverein",
+        "confirmationUrl": "https://drive.google.com/file/d/1CZbGeDnZOwZo122ItK0B8EyP7A0v8ZDD/view?usp=sharing"
+      },
+      {
+        "amount": 42,
+        "organizationName": "Greenpeace",
+        "confirmationUrl": "https://drive.google.com/file/d/1CZKcDJR2TfamizHqWT15s87awGjS5eV7/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2022/5",
+    "donations":[
+      {
+        "amount": 42,
+        "organizationName": "Croatian Mountain Rescue Service",
+        "confirmationUrl": "https://drive.google.com/file/d/1CPumtHJud6bSACGe7LRne4jtr3nLVXYR/view?usp=sharing"   
+     },
+     {
+        "amount": 42,
+        "organizationName": "Aktiver Tierschutz Austria",
+        "confirmationUrl": "https://drive.google.com/file/d/1CUkRiy0oH1beGEdbyjruJI4uVcfnRpN0/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2022/6",
+    "donations": [
+      {
+        "amount": 42,
+        "organizationName": "Deutscher Alpenverein",
+        "confirmationUrl": "https://drive.google.com/file/d/18EOVTZeqaoUy5Gj6UeL-e3ABNG1ZNRHj/view?usp=sharing"
+      },
+      {
+        "amount": 42,
+        "organizationName": "Kleine Wildtiere in großer Not",
+        "confirmationUrl": "https://drive.google.com/file/d/18G51jtOSrQUsBa-qQRNn13TcFgGr91Ym/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2022/7",
+    "donations": [
+      {
+        "amount": 42,
+        "organizationName": "Österreichischer Alpenverein",
+        "confirmationUrl": "https://drive.google.com/file/d/18BP7UkCYsprvVrADO0dRARkubHWmhxHT/view?usp=sharing"
+      },
+      {
+        "amount": 42,
+        "organizationName": "The Ocean Cleanup",
+        "confirmationUrl": "https://drive.google.com/file/d/18BMgpDjbkdBo1dq2vP7w4oH6Qp0R2jRY/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2022/8",
+    "donations": [
+      {
+        "amount": 42,
+        "organizationName": "Österreichischer Alpenverein",
+        "confirmationUrl": "https://drive.google.com/file/d/187SW6aOvAA27LnulqfJ6VVI4E1Ss7B3A/view?usp=sharing"
+      },
+      {
+        "amount": 42,
+        "organizationName": "Dian Fossey Gorilla Fund",
+        "confirmationUrl": "https://drive.google.com/file/d/17xkxmkRcYayZuWtmT-va_4VUA_qMxSLK/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2022/9",
+    "donations": [
+      {
+        "amount": 42,
+        "organizationName": "Croatian Mountain Rescue Service",
+        "confirmationUrl": "https://drive.google.com/file/d/1CwFcwdL8mna6fjkDEZ2eM8NP4a0dQ162/view?usp=sharing"
+      },
+      {
+        "amount": 42,
+        "organizationName": "Sierra Club",
+        "confirmationUrl": "https://drive.google.com/file/d/1Crv_ugaVFKDsayZDNZvPyoIpMG7zRh5i/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2022/10",
+    "donations": [
+      {
+        "amount": 42,
+        "organizationName": "Colorado Mountain Club",
+        "confirmationUrl": "https://drive.google.com/file/d/17mL4VyXgFrFuzMdSy3cP9YB-f7sFOze_/view?usp=sharing"
+      },
+      {
+        "amount": 42,
+        "organizationName": "Australian Koala Foundation",
+        "confirmationUrl": "https://drive.google.com/file/d/17rA7zEwp22I8QDflXQVF4J1I51WiIRQv/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2022/11",
+    "donations": [
+      {
+        "amount": 42,
+        "organizationName": "Mountain Wilderness Deutschland e. V.",
+        "confirmationUrl": "https://drive.google.com/file/d/17j5qrxLJMPH7btueWdjD_XNXHZ0DCkr2/view?usp=sharing"
+      },
+      {
+        "amount": 42,
+        "organizationName": "Greenpeace",
+        "confirmationUrl": "https://drive.google.com/file/d/17hKsLVo_3ryYU1WFK1KwFlu92Vx2pfEd/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2022/12",
+    "donations": [
+      {
+        "amount": 42,
+        "organizationName": "Mountain Rescue Service Bulgaria",
+        "confirmationUrl": "https://drive.google.com/file/d/17gd6daD8_kZeYUDrf4DiTg3gyW2MbYx3/view?usp=sharing"
+      },
+      {
+        "amount": 42,
+        "organizationName": "Animal Spirit",
+        "confirmationUrl": "https://drive.google.com/file/d/17eLDJnwT1rRNO1uKFxGUjXO4DQfLjWdz/view?usp=sharing"
+      }
+    ]
+  }
+]
