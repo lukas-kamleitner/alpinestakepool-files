@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Alpine clubs",
+    "organizations": [
+      {
+        "name": "Österreichischer Alpenverein"
+      },
+      {
+        "name": "Deutscher Alpenverein"
+      },
+      {
+        "name": "Schweizer Alpen-Club"
+      },
+      {
+        "name": "Mountain Wilderness Deutschland e. V."
+      }
+    ]
+  },
+  {
+    "name": "Environment / Animal welfare",
+    "organizations": [
+      {
+        "name": "Umweltverband WWF Österreich"
+      },
+      {
+        "name": "Animal Spirit"
+      },
+      {
+        "name": "Kleine Wildtiere in großer Not"
+      },
+      {
+        "name": "Aktiver Tierschutz Austria"
+      },
+      {
+        "name": "Greenpeace"
+      }
+    ]
+  }
+]
