@@ -1,0 +1,182 @@
+[
+   {
+      "date":"2021/1",
+      "donations":[
+         {
+            "amount":42,
+            "organizationName":"Österreichischer Alpenverein",
+            "confirmationUrl":"https://drive.google.com/file/d/14pqc8iddAZQDPQPjb9wvMH1WqMvlcoeB/view?usp=sharing"
+         }
+      ]
+   },
+   {
+      "date":"2021/2",
+      "donations":[
+         {
+            "amount":42,
+            "organizationName":"Schweizer Alpen-Club",
+            "confirmationUrl":"https://drive.google.com/file/d/13XT71As2qf7Lx30pJgqfZFqTgUkpfMXK/view?usp=sharing"
+         },
+         {
+            "amount":42,
+            "organizationName":"Österreichischer Alpenverein",
+            "confirmationUrl":"https://drive.google.com/file/d/13WlQ-u7zXT_19tIYxpClf4N_CXxTanNm/view?usp=sharing"
+         }
+      ]
+   },
+   {
+      "date":"2021/3",
+      "donations":[
+         {
+            "amount":42,
+            "organizationName":"Umweltverband WWF Österreich",
+            "confirmationUrl":"https://drive.google.com/file/d/13aT90D0AB7bKmEbCzPKUBWd9TgsMKL2k/view?usp=sharing"
+         },
+         {
+            "amount":42,
+            "organizationName":"Club Alpin Français",
+            "confirmationUrl":"https://drive.google.com/file/d/13jLN0chCWfkjhoQQklmqNu1rYQeTVLW6/view?usp=sharing"
+         },
+         {
+            "amount":42,
+            "organizationName":"LPO - Ligue pour la Protection des Oiseaux",
+            "confirmationUrl":"https://drive.google.com/file/d/13b4i0Zkx8_BVCFYcS0eOfK0cmJxZ2lSB/view?usp=sharing"
+         }
+      ]
+   },
+   {
+      "date":"2021/4",
+      "donations":[
+         {
+            "amount":42,
+            "organizationName":"Gorska reševalna zveza Slovenije",
+            "confirmationUrl":"https://drive.google.com/file/d/15F_wNYy9YZKrJVwCTbosTGR2ZujVXwog/view?usp=sharing"
+         },
+         {
+            "amount":42,
+            "organizationName":"LPO - Ligue pour la Protection des Oiseaux",
+            "confirmationUrl":"https://drive.google.com/file/d/156JWlJF9nal7KEDHsFQKgTvVDBQlFw1q/view?usp=sharing"
+         }
+      ]
+   },
+   {
+      "date":"2021/5",
+      "donations":[
+         {
+            "amount":42,
+            "organizationName":"Deutscher Alpenverein",
+            "confirmationUrl":"https://drive.google.com/file/d/13UbYbK7h3Lb7wbW_SB9BlOk6xmf4zcm4/view?usp=sharing"
+         },
+         {
+            "amount":42,
+            "organizationName":"Kleine Wildtiere in großer Not",
+            "confirmationUrl":"https://drive.google.com/file/d/13VMAl2vIrE35SgYiyyouaq03UPhcw2JF/view?usp=sharing"
+         }
+      ]
+   },
+   {
+      "date":"2021/6",
+      "donations":[
+         {
+            "amount":42,
+            "organizationName":"Schweizer Alpen-Club",
+            "confirmationUrl":"https://drive.google.com/file/d/13QounlcTa3O8YVB5RW7QSChWdHSu4C_k/view?usp=sharing"
+         },
+         {
+            "amount":42,
+            "organizationName":"LPO - Ligue pour la Protection des Oiseaux",
+            "confirmationUrl":"https://drive.google.com/file/d/13Qf414p6gu1PQ1TsGv1Cd4lfFfo_5VM0/view?usp=sharing"
+         }
+      ]
+   },
+   {
+      "date":"2021/7",
+      "donations":[
+         {
+            "amount":42,
+            "organizationName":"Österreichischer Alpenverein",
+            "confirmationUrl":"https://drive.google.com/file/d/14wQ_NwtV_isdXSWLT7v-OxyxULKrOSVq/view?usp=sharing"
+         },
+         {
+            "amount":42,
+            "organizationName":"Animal Spirit",
+            "confirmationUrl":"https://drive.google.com/file/d/14wQ_NwtV_isdXSWLT7v-OxyxULKrOSVq/view?usp=sharing"
+         }
+      ]
+   },
+   {
+      "date":"2021/8",
+      "donations":[
+         {
+            "amount":42,
+            "organizationName":"Schweizer Alpen-Club",
+            "confirmationUrl":"https://drive.google.com/file/d/13KzK10zeeQ_DiKh5m960mqP_lpf2LOfC/view?usp=sharing"
+         },
+         {
+            "amount":42,
+            "organizationName":"Greenpeace",
+            "confirmationUrl":"https://drive.google.com/file/d/13O-2EmnYYP_xGJmPsCjjvZsAMwxvBrkU/view?usp=sharing"
+         }
+      ]
+   },
+   {
+      "date":"2021/9",
+      "donations":[
+         {
+            "amount":42,
+            "organizationName":"Club Alpin Français",
+            "confirmationUrl":"https://drive.google.com/file/d/13ycm3rweGP3PQ0_0pY1Rqtg0sGDg9Phv/view?usp=sharing"
+         },
+         {
+            "amount":42,
+            "organizationName":"Kleine Wildtiere in großer Not",
+            "confirmationUrl":"https://drive.google.com/file/d/13wKNVAR_5AdIKX9h1ZxeEjADbqUnSQbj/view?usp=sharing"
+         }
+      ]
+   },
+   {
+      "date":"2021/10",
+      "donations":[
+         {
+            "amount":42,
+            "organizationName":"Schweizer Alpen-Club",
+            "confirmationUrl":"https://drive.google.com/file/d/13KWPyLQ7knIF9acVg1KMdsVHTSJ6qjwq/view?usp=sharing"
+         },
+         {
+            "amount":42,
+            "organizationName":"Animal Spirit",
+            "confirmationUrl":"https://drive.google.com/file/d/13JaTm0JY4aVrng8XTlo0a_7Dq3xQYFDg/view?usp=sharing"
+         }
+      ]
+   },
+   {
+      "date":"2021/11",
+      "donations":[
+         {
+            "amount":42,
+            "organizationName":"Gorska reševalna zveza Slovenije",
+            "confirmationUrl":"https://drive.google.com/file/d/14KMnhdLQ33iGzABvMgmqPr37r_qEKapJ/view?usp=sharing"
+         },
+         {
+            "amount":42,
+            "organizationName":"Australian Koala Foundation",
+            "confirmationUrl":"https://drive.google.com/file/d/14MNRq_c6PD_yJzqP5sk5GJNiAWS8UyCV/view?usp=sharing"
+         }
+      ]
+   },
+   {
+      "date":"2021/12",
+      "donations":[
+         {
+            "amount":42,
+            "organizationName":"Österreichischer Alpenverein",
+            "confirmationUrl":"https://drive.google.com/file/d/14QL-RCEVTafhWuU9QDI9vjBcOWipfFSr/view?usp=sharing"
+         },
+         {
+            "amount":42,
+            "organizationName":"Australian Koala Foundation",
+            "confirmationUrl":"https://drive.google.com/file/d/14en9KvEuUNlVMjPaLPlNYBVQQ3afFPJe/view?usp=sharing"
+         }
+      ]
+   }
+]
