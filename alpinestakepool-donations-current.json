@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024/2",
+    "donations": [
+      {
+        "amount": 50,
+        "organizationName": "Deutscher Alpenverein",
+        "confirmationUrl": "https://drive.google.com/file/d/1N4QcDYX7uaMM1C5dMlefQOHCoBWq4O6F/view?usp=sharing"
+      }
+    ]
+  },
+  {
     "date": "2024/1",
     "donations": [
       {
