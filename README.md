@@ -16,11 +16,6 @@ I would check it, just to be sure...
 ### alpinestakepool-organizations.json
 It is a list and it contains organizations\
 It is also kind of grouped or something\
-as if someone would care\
-this text is just blabla blublub\
-nobody reads it, or does somebody?\
-if so, here is 10000 ₳ if you can tell me the correct answer to\
-7irA38/27i4E2TtIQf+B3YX6MiKK+YIx8V6Y98+h0qbIaKOsIMxTr1zwF0iKvFIbH0V7fkzBV9B37j3x0+DpuA==
 
 ### alpinestakepool-donations-previous-years.json
 Oh no, the file says it again.\
