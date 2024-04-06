@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024/4",
+    "donations": [
+      {
+        "amount": 50,
+        "organizationName": "Aktiver Tierschutz Austria",
+        "confirmationUrl": "https://drive.google.com/file/d/1-GXks1xS8VcXRxZkFTcP1oED9N3u6LqS/view?usp=sharing"
+      }
+    ]
+  },
+  {
     "date": "2024/3",
     "donations": [
       {
