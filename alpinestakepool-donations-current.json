@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024/7",
+    "donations": [
+      {
+        "amount": 50,
+        "organizationName": "Österreichischer Alpenverein",
+        "confirmationUrl": "https://drive.google.com/file/d/1-g7OkIbc9tzAARn2rw-NCkRYqh20agAJ/view?usp=sharing"
+      }
+    ]
+  },
+  {
     "date": "2024/6",
     "donations": [
       {
