@@ -1,9 +1,12 @@
 [
   {
-    "name": "Alpine clubs",
+    "name": "Alpine clubs / Alpine rescue",
     "organizations": [
       {
         "name": "Österreichischer Alpenverein"
+      },
+      {
+        "name": "Österreichische Bergrettung"
       },
       {
         "name": "Deutscher Alpenverein"

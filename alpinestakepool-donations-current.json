@@ -1,5 +1,25 @@
 [
   {
+    "date": "2024/9",
+    "donations": [
+      {
+        "amount": 50,
+        "organizationName": "Österreichische Bergrettung",
+        "confirmationUrl": "https://drive.google.com/file/d/10-D2eOq66CPWL8fdWpP_q5_C5kCTBj_J/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2024/8",
+    "donations": [
+      {
+        "amount": 50,
+        "organizationName": "Umweltverband WWF Österreich",
+        "confirmationUrl": "https://drive.google.com/file/d/1-vUpxK9u1Jq7azp0Y6eSmCGPg5hbmKnl/view?usp=sharing"
+      }
+    ]
+  },
+  {
     "date": "2024/7",
     "donations": [
       {
