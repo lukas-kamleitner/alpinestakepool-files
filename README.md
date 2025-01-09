@@ -17,6 +17,10 @@ It is a list of all organizations (grouped) that ALPS is donating to
 ### alpinestakepool-donations-previous-years.json
 List of previous years and URLs to the donation files 
 
+### alpinestakepool-donations-2024.json
+you think it`s a list of all the donations of 2024? \
+u right
+
 ### alpinestakepool-donations-2023.json
 you think it`s a list of all the donations of 2023? \
 u right!
