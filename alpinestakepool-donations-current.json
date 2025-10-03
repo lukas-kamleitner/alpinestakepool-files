@@ -1,5 +1,15 @@
 [
   {
+    "date": "2025/10",
+    "donations": [
+      {
+        "amount": 50,
+        "organizationName": "Schweizer Alpen-Club",
+        "confirmationUrl": "https://drive.google.com/file/d/1Ce-b5Wg_BLCvnHNbNDreuQsmtAoCzmkm/view?usp=sharing"
+      }
+    ]
+  },
+  {
     "date": "2025/9",
     "donations": [
       {
