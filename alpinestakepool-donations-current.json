@@ -1,4 +1,14 @@
 [
+   {
+    "date": "2025/11",
+    "donations": [
+      {
+        "amount": 50,
+        "organizationName": "Kleine Wildtiere in großer Not",
+        "confirmationUrl": "https://drive.google.com/file/d/1lohf0L8WKX0_q9yvNBXSr2TqXgr2nE3w/view?usp=sharing"
+      }
+    ]
+  },
   {
     "date": "2025/10",
     "donations": [
