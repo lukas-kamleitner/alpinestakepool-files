@@ -1,5 +1,9 @@
 [
   {
+    "year": 2025,
+    "fileUrl": "https://raw.githubusercontent.com/lukas-kamleitner/alpinestakepool-files/refs/heads/main/alpinestakepool-donations-2025.json"
+  },
+  {
     "year": 2024,
     "fileUrl": "https://raw.githubusercontent.com/lukas-kamleitner/alpinestakepool-files/main/alpinestakepool-donations-2024.json"
   },
