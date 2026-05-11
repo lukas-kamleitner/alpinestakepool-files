@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026/5",
+    "donations": [
+      {
+        "amount": 50,
+        "organizationName": "Umweltverband WWF Österreich",
+        "confirmationUrl": "https://drive.google.com/file/d/1q2VsGHSGB3hb5coUDZjyFBhFMkxSwCnR/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2026/4",
+    "donations": [
+      {
+        "amount": 50,
+        "organizationName": "Deutscher Alpenverein",
+        "confirmationUrl": "https://drive.google.com/file/d/1oPJAC5vdR_ezqQVAmSZv8G5jH7PzPmjx/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "date": "2026/3",
+    "donations": [
+      {
+        "amount": 50,
+        "organizationName": "Greenpeace",
+        "confirmationUrl": "https://drive.google.com/file/d/1S-aFrngej9Z2MOUGw-SWrxH_YLz3jp61/view?usp=sharing"
+      }
+    ]
+  },
+  {
     "date": "2026/2",
     "donations": [
       {
