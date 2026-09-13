@@ -9,8 +9,6 @@ ALPS donates a fixed 600 € a year: every month a random draw picks one of the
 organizations below, which receives 50 €. Up to 2023 it was two draws a month
 at 42 € each.
 
-**4 440 € donated so far.**
-
 ## The files
 
 | File | What it is |
@@ -44,17 +42,6 @@ Every donation file is a list of months; a month holds one or more donations:
 `confirmationUrl` opens the receipt – a PDF or a screenshot of the transfer –
 served by paperless.bergbua.at, the operator's document archive. The
 organization's name is spelled exactly as in `alpinestakepool-organizations.json`.
-
-### How a donation gets here
-
-The receipt goes into the archive and gets a permanent share link; the month
-goes to the top of `alpinestakepool-donations-current.json`, the amount is
-added to `alpinestakepool-donation-sum.json`, and a new organization to its
-group. After a push, the website picks the change up within about five
-minutes – it caches nothing itself. At the turn of the year the finished year
-moves into its own file, is listed in `alpinestakepool-donations-previous-years.json`,
-and gets its table below. The full procedure is in the
-[website's README](https://github.com/lukas-kamleitner/alpinestakepool#adding-a-donation).
 
 ## The organizations
 
